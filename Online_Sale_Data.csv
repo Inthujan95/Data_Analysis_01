@@ -1,0 +1,11 @@
+OrderID,Date,Time,Category,Product,Quantity,UnitPrice,TotalPrice,CustomerRegion,PaymentMethod,SatisfactionRating
+1003,2025-03-01,16:45:08,Books,Web Development with Django,1,44.99,44.99,Central,Debit Card,5
+1004,2025-03-02,09:12:33,Electronics,Wireless Earbuds,2,79.99,159.98,South,PayPal,4
+1005,2025-03-02,11:30:15,Clothing,Smartwatch Band,1,29.99,29.99,North,Credit Card,3
+1006,2025-03-03,13:20:44,Books,Data Science for Beginners,1,54.99,54.99,East,Gift Card,5
+1007,2025-03-03,14:55:21,Electronics,Portable Charger,1,39.99,39.99,West,PayPal,4
+1008,2025-03-04,10:08:11,Clothing,Programmer T-Shirt,2,24.99,49.98,Central,Credit Card,5
+1009,2025-03-04,12:15:30,Electronics,Smart Home Camera,1,129.99,129.99,South,Debit Card,4
+1010,2025-03-05,08:44:17,Books,Machine Learning Guide,1,69.99,69.99,North,PayPal,5
+1011,2025-03-05,17:33:59,Clothing,Hoodie - Tech Edition,1,59.99,59.99,West,Gift Card,4
+1012,2025-03-06,19:20:01,Electronics,Bluetooth Speaker,1,89.99,89.99,East,Credit Card,3
